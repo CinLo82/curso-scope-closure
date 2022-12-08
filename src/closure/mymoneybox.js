@@ -1,4 +1,4 @@
-/*function moneyBox(coins) {
+/* function moneyBox(coins) {
     let saveCoins =  0;
     saveCoins += coins;
     console.log(`MoneyBox: $${saveCoins}`);
@@ -25,3 +25,6 @@ const moneyBoxAna = moneyBox();
 moneyBoxAna(10);
 moneyBoxAna(20);
 moneyBoxAna(5);
+
+
+

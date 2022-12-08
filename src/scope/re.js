@@ -16,6 +16,14 @@ fruit = 'Kiwi'; // reasignar
 console.log(fruit);
 // let fruit = 'Banana'; no se puede volver a asignar la misma variable
 
+//const
 const animal = 'dog';
 animal = 'cat'; // no se puede asignar y redeclarar
 console.log(animal);
+
+const vehicles = [];
+vehicles.push('🚗');
+console.log(vehicles);
+
+vehicles.pop();
+console.log(vehicles);
